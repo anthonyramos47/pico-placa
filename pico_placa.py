@@ -5,6 +5,7 @@ from processing import *
 def main():
 
     #file_n = eval(input("Please enter the name of the file: "))
+    #data_treatment(file_n)
     data_treatment("sample.dat")
 
 main()
